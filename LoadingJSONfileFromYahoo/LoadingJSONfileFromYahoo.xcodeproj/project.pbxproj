@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		8F45AC7F2219316D00978356 /* ViewController+getValues.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F45AC7E2219316D00978356 /* ViewController+getValues.swift */; };
 		8FDEBAB921A39A9B003A356A /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8FDEBAB821A39A9B003A356A /* AppDelegate.swift */; };
 		8FDEBABB21A39A9B003A356A /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8FDEBABA21A39A9B003A356A /* ViewController.swift */; };
 		8FDEBABE21A39A9B003A356A /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 8FDEBABC21A39A9B003A356A /* Main.storyboard */; };
@@ -34,6 +35,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		8F45AC7E2219316D00978356 /* ViewController+getValues.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "ViewController+getValues.swift"; sourceTree = "<group>"; };
 		8FDEBAB521A39A9B003A356A /* LoadingJSONfileFromYahoo.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = LoadingJSONfileFromYahoo.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		8FDEBAB821A39A9B003A356A /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		8FDEBABA21A39A9B003A356A /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -99,6 +101,7 @@
 			children = (
 				8FDEBAB821A39A9B003A356A /* AppDelegate.swift */,
 				8FDEBABA21A39A9B003A356A /* ViewController.swift */,
+				8F45AC7E2219316D00978356 /* ViewController+getValues.swift */,
 				8FDEBABC21A39A9B003A356A /* Main.storyboard */,
 				8FDEBABF21A39A9D003A356A /* Assets.xcassets */,
 				8FDEBAC121A39A9D003A356A /* LaunchScreen.storyboard */,
@@ -257,6 +260,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				8FDEBABB21A39A9B003A356A /* ViewController.swift in Sources */,
+				8F45AC7F2219316D00978356 /* ViewController+getValues.swift in Sources */,
 				8FDEBAB921A39A9B003A356A /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
