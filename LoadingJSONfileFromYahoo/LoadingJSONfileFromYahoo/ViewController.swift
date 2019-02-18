@@ -26,7 +26,9 @@ class ViewController: UIViewController {
                         self.getValues(jsonData: data!)
                     } else { print("Error")
                     }
-                } else { print("Error")}
+                } else {
+                    print("Error")
+                }
             }
         }
         // task to download data and then call the resume() method
