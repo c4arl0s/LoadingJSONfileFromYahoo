@@ -1,5 +1,8 @@
 # LoadingJSONfileFromYahoo
+
 LoadingJSONfileFromYahoo
+
+# ViewController.swift
 
 ``` swift
 //
@@ -40,6 +43,8 @@ class ViewController: UIViewController {
 
 }
 ```
+
+# ViewController+getValues.swift
 
 ``` swift 
 //
